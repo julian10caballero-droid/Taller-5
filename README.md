@@ -23,6 +23,8 @@ Las palabras y sus pistas se cargan desde un archivo externo en formato CSV, lo 
 - Representación de la palabra con guiones y letras descubiertas
 - Mensajes de acierto o error
 - Uso de ASCII art representativo
+# Presentación: 
+https://www.canva.com/design/DAHI5fk9p_8/Biu2Cnx6PbSrr51wdHMqEw/edit
 
 # 👤 Integrantes 
 
