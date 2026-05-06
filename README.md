@@ -1,7 +1,8 @@
 # Taller-5
 # Juego del Ahorcado en Consola 🪢
 
-Aplicación desarrollada en Java que permite jugar al clásico ahorcado directamente desde la consola. 💻
+El proyecto consiste en el desarrollo de un juego interactivo de Ahorcado en Java, en el cual el usuario debe adivinar una palabra seleccionada aleatoriamente dentro de una categoría específica.
+Las palabras y sus pistas se cargan desde un archivo externo en formato CSV, lo que permite que el contenido del juego sea dinámico y fácilmente modificable sin cambiar el código. 💻
 
 # ⭐ Características principales
 
