@@ -1,0 +1,55 @@
+categoria,palabra,pista
+ANIMALES,elefante,mamifero grande con trompa
+ANIMALES,leon,rey de la selva
+ANIMALES,tigre,felino con rayas
+ANIMALES,jirafa,cuello muy largo
+ANIMALES,perro,mejor amigo del hombre
+ANIMALES,gato,animal domestico independiente
+ANIMALES,nutria,animal acuatico jugueton
+ANIMALES,conejo,animal que salta y come zanahorias
+ANIMALES,lobo,parecido al perro pero salvaje
+ANIMALES,oso,animal grande y peludo
+
+TECNOLOGIA,computador,maquina para procesar datos
+TECNOLOGIA,celular,dispositivo movil
+TECNOLOGIA,internet,red global
+TECNOLOGIA,teclado,para escribir
+TECNOLOGIA,mouse,dispositivo apuntador
+TECNOLOGIA,monitor,pantalla del pc
+TECNOLOGIA,router,distribuye internet
+TECNOLOGIA,software,programas del sistema
+TECNOLOGIA,hardware,parte fisica del pc
+TECNOLOGIA,servidor,almacena informacion
+
+PAISES,colombia,pais suramericano
+PAISES,brasil,el mas grande de sudamerica
+PAISES,argentina,tierra del tango
+PAISES,chile,pais largo y angosto
+PAISES,peru,tierra de machu picchu
+PAISES,mexico,pais de tacos
+PAISES,canada,pais frio del norte
+PAISES,francia,pais de la torre eiffel
+PAISES,alemania,potencia europea
+PAISES,japon,pais tecnologico asiatico
+
+COLOMBIA,medellin,ciudad de la eterna primavera
+COLOMBIA,bogota,capital del pais
+COLOMBIA,cali,capital de la salsa
+COLOMBIA,arepa,comida tipica
+COLOMBIA,bandeja,paisa plato tipico
+COLOMBIA,metro,transporte de medellin
+COLOMBIA,guatape,pueblo turistico
+COLOMBIA,antioquia,departamento
+COLOMBIA,cafe,producto famoso
+COLOMBIA,aguardiente,bebida tradicional
+
+PROGRAMACION,java,lenguaje orientado a objetos
+PROGRAMACION,python,lenguaje popular
+PROGRAMACION,variable,almacena datos
+PROGRAMACION,metodo,funcion en java
+PROGRAMACION,clase,estructura principal
+PROGRAMACION,objeto,instancia de clase
+PROGRAMACION,compilar,proceso de codigo
+PROGRAMACION,debug,error en codigo
+PROGRAMACION,algoritmo,pasos logicos
+PROGRAMACION,codigo,instrucciones del programa
